@@ -8,7 +8,7 @@ on:
 
 jobs:
   linting:
-    runs-on: ubuntu-latest
+    runs-on: macos-latest
     steps:
       - name: Checkout Code
         uses: actions/checkout@v3
@@ -26,7 +26,7 @@ jobs:
         run: flake8 --ignore=E501 src/model.py
 
   testing:
-    runs-on: ubuntu-latest
+    runs-on: macos-latest
     steps:
       - name: Checkout Code
         uses: actions/checkout@v3
@@ -44,7 +44,7 @@ jobs:
         run: python src/model.py
 
   deployment:
-    runs-on: ubuntu-latest
+    runs-on: macos-latest
     needs: [linting, testing]
     steps:
       - name: Echo Deployment
