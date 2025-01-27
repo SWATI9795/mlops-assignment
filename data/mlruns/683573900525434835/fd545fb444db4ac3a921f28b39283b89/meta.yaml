@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/683573900525434835/fd545fb444db4ac3a921f28b39283b89/artifacts
+end_time: 1737914432791
+entry_point_name: ''
+experiment_id: '683573900525434835'
+lifecycle_stage: active
+run_id: fd545fb444db4ac3a921f28b39283b89
+run_name: enthused-cod-875
+run_uuid: fd545fb444db4ac3a921f28b39283b89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737914430718
+status: 3
+tags: []
+user_id: swatiagarwal

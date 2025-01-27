@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/683573900525434835/580da44075bb4c5184b80497f18b4929/artifacts
+end_time: 1737914506869
+entry_point_name: ''
+experiment_id: '683573900525434835'
+lifecycle_stage: active
+run_id: 580da44075bb4c5184b80497f18b4929
+run_name: traveling-chimp-266
+run_uuid: 580da44075bb4c5184b80497f18b4929
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737914505011
+status: 3
+tags: []
+user_id: swatiagarwal

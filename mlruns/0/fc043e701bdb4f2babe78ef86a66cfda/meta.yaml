@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/swatiagarwal/Work/BITS/Sem-3/MLOPs/assignment-1/mlops-assignment/mlruns/0/fc043e701bdb4f2babe78ef86a66cfda/artifacts
+end_time: 1737901102382
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc043e701bdb4f2babe78ef86a66cfda
+run_name: carefree-vole-21
+run_uuid: fc043e701bdb4f2babe78ef86a66cfda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737901100522
+status: 3
+tags: []
+user_id: swatiagarwal

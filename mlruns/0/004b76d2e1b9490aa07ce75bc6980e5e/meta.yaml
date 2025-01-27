@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/swatiagarwal/Work/BITS/Sem-3/MLOPs/assignment-1/mlops-assignment/mlruns/0/004b76d2e1b9490aa07ce75bc6980e5e/artifacts
+end_time: 1737901280412
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 004b76d2e1b9490aa07ce75bc6980e5e
+run_name: shivering-panda-535
+run_uuid: 004b76d2e1b9490aa07ce75bc6980e5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737901278587
+status: 3
+tags: []
+user_id: swatiagarwal
