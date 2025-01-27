@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/swatiagarwal/Work/BITS/Sem-3/MLOPs/assignment-1/mlops-assignment/mlruns/0/44afd8d6f60249a28507655f9ac1dcfa/artifacts
+end_time: 1737901038376
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 44afd8d6f60249a28507655f9ac1dcfa
+run_name: handsome-wolf-186
+run_uuid: 44afd8d6f60249a28507655f9ac1dcfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737901036380
+status: 3
+tags: []
+user_id: swatiagarwal

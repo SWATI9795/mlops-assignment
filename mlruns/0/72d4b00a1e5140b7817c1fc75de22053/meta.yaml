@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/swatiagarwal/Work/BITS/Sem-3/MLOPs/assignment-1/mlops-assignment/mlruns/0/72d4b00a1e5140b7817c1fc75de22053/artifacts
+end_time: 1737901109140
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 72d4b00a1e5140b7817c1fc75de22053
+run_name: industrious-ram-163
+run_uuid: 72d4b00a1e5140b7817c1fc75de22053
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737901107315
+status: 3
+tags: []
+user_id: swatiagarwal

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/swatiagarwal/Work/BITS/Sem-3/MLOPs/assignment-1/mlops-assignment/mlruns/0/3ce6d3d66ba64ed99815cfc6a63727e7/artifacts
+end_time: 1737901233220
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ce6d3d66ba64ed99815cfc6a63727e7
+run_name: popular-stoat-882
+run_uuid: 3ce6d3d66ba64ed99815cfc6a63727e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737901231362
+status: 3
+tags: []
+user_id: swatiagarwal
